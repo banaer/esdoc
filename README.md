@@ -19,7 +19,7 @@ Please <a href="https://try.esdoc.org">try it out</a>!
 - [ESDoc Hosting Service](https://doc.esdoc.org)
 
 # Users
-- [ESDoc](https://doc.esdoc.org/github.com/esdoc/esdoc/) (self-hosting &#x1F604;)
+- [ESDoc](https://doc.esdoc.org/github.com/esdoc/esdoc/) (self-hosting &#x1F605;)
 - [RxJS](http://reactivex.io/rxjs/)
 - [Sketch API](http://developer.sketchapp.com/reference/api/)
 
